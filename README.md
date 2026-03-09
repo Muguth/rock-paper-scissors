@@ -1,3 +1,16 @@
-# Full Stack CRM
+# Rock Paper Scissors Game
 
-Simple Javascript Rock Paper Scissors game
+A simple browser game built with HTML, CSS and JavaScript.
+
+## Features
+
+- Player vs Computer
+- Random computer choice
+- Score tracking
+- Simple UI with images
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
